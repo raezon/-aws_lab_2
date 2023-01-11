@@ -44,4 +44,6 @@ $ ../scripts/create.sh web-network-stack  network.yml network-params.json
 $../scripts/create.sh web-server-stack  server.yml server-params.json
 ```
 
-Once the above steps are complete,You can access this url
+Once the above steps are complete,You can access the udgram web on this url
+
+http://web-s-webap-v16dfi6uz2pi-91236931.us-east-1.elb.amazonaws.com/
